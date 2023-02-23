@@ -12,7 +12,7 @@ module.exports = {
       NODE_ENV: 'production',
       LOGLEVEL: 'info',
       WS_PORT: 3080,
-      OPENAI_API_KEY: 'your-key-here',
+      OPENAI_API_KEY: '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',
       OPENAI_API_MODEL: 'text-davinci-003'
     }
   }]
